@@ -5,6 +5,6 @@ For testing the efficiency of the program, we have compared the embedded bitstre
 # Installation
 For running the program, we basically need MATLAB or any other such compatible libraries.<br>
 Run the "mainCode.m" file. <br>
-For testing with different test images, just change the carrier image file name in line 5 of the file. For testing with another bitmap image just change the file name at line 6.<br>
+For testing with different test images, just change the carrier image file name in line 5 of the file. For testing with another secret bitmap image just change the file name at line 6.<br>
 After runnning the program, the generated "res.jpg" is the watermarked RGB image. And "ext.bmp" is the secret bitmap image after extraction.<br><br>
 For elaborated details about the project and alogorithms used please read the Project Report here :  https://drive.google.com/file/d/0B4m-LhpVcbqiOENGQXl5SmpINlk/view?usp=sharing
